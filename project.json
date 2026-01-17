@@ -1,0 +1,6 @@
+{
+  ""name"": ""specproj-2ntkdy4c"",
+  ""goal"": ""dataset sampler for telemetry"",
+  ""language"": ""rust"",
+  ""template"": ""rust-lib""
+}
